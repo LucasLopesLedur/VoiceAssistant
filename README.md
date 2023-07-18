@@ -1,5 +1,5 @@
 # VoiceAssistant
 Voice Assistant made with Chat-GPT3
 
-#Run
+# Run
 python main.py
